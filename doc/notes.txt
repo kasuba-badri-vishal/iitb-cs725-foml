@@ -1,4 +1,11 @@
- helllo this is noptes
-
-,jsd
-
+1. Taken entire Training set of nearly 68 lakh samples
+2. Each sample point consists of (Title, Body, Tags)
+3. Removed Duplicates, data now contains unique (Title, Body) rows - 45 lakh samples
+4. Taken only top 100 frequently occuring Tags into consideration for the problem- [ 32 lakh samples] 
+4. Separated Code and Description from the Body
+5. Converted all words into Lower case letters
+6. Removed all the HTML Tags
+7. Removed all the special characters
+8. Tokenized the sentences in (title and body) into list of strings
+9. Removed the Stopwords
+10. Applied Stemming to the words
