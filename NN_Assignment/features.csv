@@ -1,0 +1,4 @@
+features,
+"Projection of Input data along EIGEN VECTOR with {i}th highest Eigen Value [PCA] where i goes to 1 to selected_features(variable)",
+"We did feature selection to 60 features out of 90 currently, which gives us better results, but we can also vary them accordingly in the code",
+
