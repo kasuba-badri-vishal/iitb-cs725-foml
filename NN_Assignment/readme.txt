@@ -4,6 +4,7 @@ TEAM DETAILS
     2. 22M108   Aditya Pande
     3. 22M0795  Prathamesh S. Yeole
 
+The data can be downloaded from the following repo : https://github.com/sahasrarjn/cs725-2022-assignment
 
 About Assignment
     1. Implemented all the Functions that were guided from nn.py
