@@ -1,6 +1,6 @@
-# GabruGeeks_FOML
+# Team Name : Gabru Geeks
 
-## Project Work for CS 725 FoML Course
+## Project Work for the course of CS 725 [Foundations of Machine Learning]
 
 <br/><br/>
 
